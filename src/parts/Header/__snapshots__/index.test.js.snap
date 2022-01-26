@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component should render correctly 1`] = `
+<div>
+  <h2>
+    Women's tops
+  </h2>
+  <SelectBox
+    className="filter"
+    onSelect={[Function]}
+    options={
+      Array [
+        Object {
+          "label": "Filter By Size",
+          "value": "",
+        },
+        Object {
+          "label": "XS",
+          "value": "XS",
+        },
+        Object {
+          "label": "S",
+          "value": "S",
+        },
+        Object {
+          "label": "M",
+          "value": "M",
+        },
+        Object {
+          "label": "XL",
+          "value": "XL",
+        },
+        Object {
+          "label": "L",
+          "value": "L",
+        },
+      ]
+    }
+  />
+</div>
+`;

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductList Component should render correctly 1`] = `
+<ul>
+  <Product
+    className="product-details"
+    item={
+      Object {
+        "index": 0,
+        "isExclusive": false,
+        "isSale": true,
+        "price": "$18.88",
+        "productImage": "product-1.jpg",
+        "productName": "Striped shirt",
+        "size": Array [
+          "S",
+          "L",
+          "XL",
+        ],
+      }
+    }
+    key="0"
+  />
+  <Product
+    className="product-details"
+    item={
+      Object {
+        "index": 1,
+        "isExclusive": false,
+        "isSale": false,
+        "price": "$25.44",
+        "productImage": "product-2.jpg",
+        "productName": "Denim shirt",
+        "size": Array [
+          "XS",
+          "S",
+        ],
+      }
+    }
+    key="1"
+  />
+</ul>
+`;

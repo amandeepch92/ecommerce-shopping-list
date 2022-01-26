@@ -1,0 +1,10 @@
+
+@import 'assets/scss/variables.scss';
+
+/* Header */
+.item-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}

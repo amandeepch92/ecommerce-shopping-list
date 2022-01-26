@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Component should render correctly 1`] = `
+<li>
+  <Image
+    alt="Striped shirt"
+    src="product-1.jpg"
+  />
+  <div>
+    <div
+      className="sale-tag"
+    >
+      Sale
+       
+    </div>
+    <div
+      className="product-description"
+    >
+      <div
+        className="product-name"
+      >
+        Striped shirt
+      </div>
+      <div
+        className="product-price"
+      >
+        $18.88
+      </div>
+    </div>
+  </div>
+</li>
+`;

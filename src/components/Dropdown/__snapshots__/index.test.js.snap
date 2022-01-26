@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown Component should render correctly 1`] = `
+<div
+  className="dropdown"
+>
+  <label
+    className="filter-label"
+    htmlFor="select-box"
+  >
+    Select
+  </label>
+  <select
+    className="form-control"
+    id="select-box"
+    onChange={[Function]}
+    value="S"
+  >
+    <option
+      key=""
+      value=""
+    >
+      Filter By Size
+    </option>
+    <option
+      key="XS"
+      value="XS"
+    >
+      XS
+    </option>
+  </select>
+</div>
+`;
